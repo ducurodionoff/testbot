@@ -1,0 +1,5 @@
+destination: "@testallnewsmd"
+seo_limit: 4096
+media_limit: 1024
+cyrillic_max_ratio:0.05
+similarity_threshold: 0.95
